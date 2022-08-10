@@ -29,22 +29,22 @@ This creates the executable version gpl on a UNIX machine.
 Input data file
 The program input consist of an ASCII data file with x,y coordinates of the cross-sectional profile. On the first line of this file, the number of data point couples (n) is given. The n consecutive lines are x and y coordinates of each point separated by blanks or tabs. As an example we list here the contents of the file exam1.dat:
 
-16
-0 1160
-100 954
-300 945
-500 814
-700 648
-900 620
-1100 573
-1300 471
-1500 420
-1700 485
-1900 500
-2100 650
-2300 754
-2500 919
-2700 1008
+16\\
+0 1160\\
+100 954\\
+300 945\\
+500 814\\
+700 648\\
+900 620\\
+1100 573\\
+1300 471\\
+1500 420\\
+1700 485\\
+1900 500\\
+2100 650\\
+2300 754\\
+2500 919\\
+2700 1008\\
 2950 1182
 
 ![image](https://user-images.githubusercontent.com/62480664/183962122-e7b5c2f2-ca62-4203-a958-ed864f443f1e.png)
